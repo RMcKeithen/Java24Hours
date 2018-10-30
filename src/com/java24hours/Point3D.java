@@ -9,7 +9,7 @@ public class Point3D extends Point {
         super(x,y);
         this.z = z;
     }
-    
+    // This is a test for GitHub
     public void move(int x, int y, int z) {
         this.z = z;
         super.move(x, y);
